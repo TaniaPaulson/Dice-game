@@ -48,6 +48,14 @@ ARCHITECTURE DIAGRAM:
 CONCLUSION:
 In conclusion, The Dice Game showcases a technically robust architecture, combining HTML, CSS, and JavaScript for an interactive frontend, complemented by Java Servlets and MySQL for a powerful backend. The seamless integration of Eclipse and MySQL underscores the application's scalability and reliability. Each module, from user authentication to dynamic gameplay, contributes to a cohesive and responsive user experience.
 
+![dice1](https://github.com/TaniaPaulson/Dice-game/assets/138148075/2b930e61-d9e7-4c43-9c6a-6783b8216fac)
+![dice2](https://github.com/TaniaPaulson/Dice-game/assets/138148075/b818da36-b756-4796-aebf-ef36fe922175)
+![dice3](https://github.com/TaniaPaulson/Dice-game/assets/138148075/3b8858ad-6776-4edb-a067-0af8d8c35f56)
+![dice4](https://github.com/TaniaPaulson/Dice-game/assets/138148075/163b1a87-d82f-4eb2-8b60-0d9a2cfcdf18)
+![d5](https://github.com/TaniaPaulson/Dice-game/assets/138148075/6bb02b92-ff41-4bce-a51f-188b692139a2)
+![d6](https://github.com/TaniaPaulson/Dice-game/assets/138148075/3e25480e-10e8-4146-9b5f-7506579a2ff3)
+
+
 
 
 
